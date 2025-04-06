@@ -1,0 +1,74 @@
+    1  exit
+    2  whoami
+    3  line
+    4  exit
+    5  mkdir proyecto_comandos
+    6  cd proyecto_comandos
+    7  mkdir documentos imagenes scripts
+    8  ls
+    9  cd documentos
+   10  touch notas.txt
+   11  ls
+   12  neon notas.txt
+   13  nano notas.txt
+   14  cp notas.txt ./scripts
+   15  ls
+   16  cd ..
+   17  tree
+   18  ls
+   19  pwd
+   20  ls -l
+   21  tree
+   22  sudo snap install tree
+   23  tree
+   24  cd documentos
+   25  cd scripts
+   26  rm scripts
+   27  tree
+   28  cp notas.txt scripts/
+   29  cp notas.txt scripts/backup_notas.txt
+   30  ls
+   31  cd ..
+   32  cp notas.txt scripts/backup_notas.txt
+   33  cp notas.txt ./scripts/backup_notas.txt
+   34  cd documentos
+   35  cp notas.txt ./scripts/backup_notas.txt
+   36  cp Documentos/notas.txt scripts/backup_notas.txt
+   37  cp notas.txt scripts/backup_notas.txt/
+   38  cp notas.txt ./scripts/backup_notas.txt
+   39  cd ..
+   40  cp notas.txt scripts/backup_notas.txt
+   41  cd documentos
+   42  cp notas.txt ../scripts
+   43  cd ..
+   44  tree
+   45  cd documentos
+   46  cp notas.txt ../scripts/backup_notas.txt
+   47  cd ..
+   48  tree
+   49  cd scripts
+   50  cat backup_notas.txt
+   51  rm notas.txt
+   52  mv backup_notas.txt ../imagenes
+   53  cd ..
+   54  tree
+   55  cd documentos
+   56  touch resumen.txt
+   57  ls
+   58  cat notas.txt > documentos/resumen.txt
+   59  cat notas.txt > ../docuemtnos/resumen.txt
+   60  cat notas.txt > ../documentos/resumen.txt
+   61  cat resument.txt
+   62  cat resumen.txt
+   63  echo "Esta es una nueva línea añadida." >> ../documentos/resumen.txt
+   64  cat resumen.txt
+   65  cd ..
+   66  imagenes
+   67  cd imagenes
+   68  rm backup_notas.txt
+   69  ls
+   70  cd ..
+   71  rm -r ../imagenes
+   72  rm -r imagenes
+   73  tree
+   74  history | tee tarea-s1-jose-vera.txt
