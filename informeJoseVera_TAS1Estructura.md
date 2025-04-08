@@ -5,7 +5,7 @@
 45 minutos aproximadamente para desarrollar la práctica.
 
 ## 3. Fundamentos:
-Descripción de los conceptos para poder entender la practica, de al menos una *300* palabras, uso obligatorio de imágenes que ayuden la descripción de la teoría.
+Linux es un sistema operativo basado en línea de comandos que permite interactuar directamente con el sistema mediante instrucciones llamadas comandos. Entre los más básicos están **pwd** para ver la ruta actual, **ls** para listar archivos, y **cd** para moverse entre carpetas. Para crear y gestionar archivos se usan comandos como **touch**, **mkdir**, **cp**, **mv** y **rm**, mientras que para ver el contenido de archivos están **cat**, **head**, **tail**, **more** y **less**. También es posible gestionar permisos con **chmod**, usuarios con **whoami** y ejecutar tareas como administrador con **sudo**. Estos comandos son esenciales para realizar operaciones básicas y tener control sobre el sistema sin necesidad de una interfaz gráfica.
 
 ## 4. Conocimientos previos.
 Para realizar esta practica el estudiante necesita tener claro los siguientes temas:
