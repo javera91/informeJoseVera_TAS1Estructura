@@ -29,7 +29,7 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
 - En tu directorio de trabajo, crea una carpeta llamada proyecto_comandos.
 - Dentro de proyecto_comandos, crea tres subcarpetas: documentos, imagenes y scripts.
 
-![Paso1](imágenes/img1.png){ width=800px }
+<img src="imágenes/img1.png" alt="Paso1" width="800px">
 
 ### Paso 2: Manipulación de archivos.
 - Dentro de la carpeta documentos, crea un archivo de texto llamado notas.txt.
@@ -37,32 +37,32 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
 - Copia el archivo notas.txt a la carpeta scripts y cambia su nombre a backup_notas.txt.
 - Mueve el archivo backup_notas.txt a la carpeta imágenes.
 
-![Paso2](imágenes/img2.png){ width=800px }
-![Paso2](imágenes/img3.png){ width=800px }
-![Paso2](imágenes/img4.png){ width=800px }
-![Paso2](imágenes/img5.png){ width=800px }
+<img src="imágenes/img2.png" alt="Paso2" width="800px">
+<img src="imágenes/img3.png" alt="Paso2" width="800px">
+<img src="imágenes/img4.png" alt="Paso2" width="800px">
+<img src="imágenes/img5.png" alt="Paso2" width="800px">
 
 ### Paso 3: Redirección y concatenación.
 - Crea un archivo llamado resumen.txt en documentos.
 - Redirecciona el contenido de notas.txt a resumen.txt.
 - Añade una nueva línea de texto a resumen.txt sin sobrescribir su contenido.
 
-![Paso3](imágenes/img6.png){ width=800px }
-![Paso3](imágenes/img7.png){ width=800px }
-![Paso3](imágenes/img8.png){ width=800px }
+<img src="imágenes/img6.png" alt="Paso3" width="800px">
+<img src="imágenes/img7.png" alt="Paso3" width="800px">
+<img src="imágenes/img8.png" alt="Paso3" width="800px">
 
 ### Paso 4: Eliminación de archivos y carpetas.
 - Elimina el archivo backup_notas.txt de la carpeta imágenes.
 - Elimina la carpeta imágenes (solo si está vacía).
 
-![Paso4](imágenes/img9.png){ width=800px }
-![Paso4](imágenes/img10.png){ width=800px }
+<img src="imágenes/img9.png" alt="Paso4" width="800px">
+<img src="imágenes/img10.png" alt="Paso4" width="800px">
 
 ### Paso 5: Entrega.
 - Vuelca el contenido del comando history a un archivo llamado tarea-s1-nombre_apellido.txt utilizando tuberías.
 - Sustituye "nombre_apellido" por tu nombre y apellido correspondiente.
 
-![Paso5](imágenes/img11.png){ width=800px }
+<img src="imágenes/img11.png" alt="Paso5" width="800px">
 
 ## 9. Resultados esperados:
     
@@ -71,3 +71,4 @@ Efectivamente de los 5 pasos de la practica, todos se han cumplido y se pueden v
 ## 10. Bibliografía
     
 - Install WSL | Microsoft Learn. (n.d.). Retrieved April 4, 2025, from https://learn.microsoft.com/en-us/windows/wsl/install
+- ¿Qué es Linux y para qué sirve? - Definición. (n.d.). Retrieved April 6, 2025, from https://www.geeknetic.es/Linux/que-es-y-para-que-sirve
