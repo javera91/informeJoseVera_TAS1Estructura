@@ -1,11 +1,16 @@
 # Practica servidor web
 ## 1. Titulo
 "Comandos de linux (creación y manipulación de archivos en linux)"
+
 ## 2. Tiempo de duración
 45 minutos aproximadamente para desarrollar la práctica.
 
 ## 3. Fundamentos:
-Linux es un sistema operativo basado en línea de comandos que permite interactuar directamente con el sistema mediante instrucciones llamadas comandos. Entre los más básicos están **pwd** para ver la ruta actual, **ls** para listar archivos, y **cd** para moverse entre carpetas. Para crear y gestionar archivos se usan comandos como **touch**, **mkdir**, **cp**, **mv** y **rm**, mientras que para ver el contenido de archivos están **cat**, **head**, **tail**, **more** y **less**. También es posible gestionar permisos con **chmod**, usuarios con **whoami** y ejecutar tareas como administrador con **sudo**. Estos comandos son esenciales para realizar operaciones básicas y tener control sobre el sistema sin necesidad de una interfaz gráfica.
+Linux es un sistema operativo basado en línea de comandos que permite interactuar directamente con el sistema mediante instrucciones llamadas comandos. A través de la terminal, los usuarios pueden realizar diversas tareas administrativas y de gestión sin necesidad de una interfaz gráfica. Entre los comandos más básicos están **pwd**, que muestra la ruta actual en el sistema de archivos, **ls**, que lista los archivos y directorios del directorio actual, y **cd**, que permite moverse entre carpetas. Para crear y gestionar archivos, se utilizan comandos como **touch** (para crear archivos vacíos), **mkdir** (para crear directorios), **cp** (para copiar archivos o directorios), **mv** (para mover o renombrar archivos) y **rm** (para eliminar archivos). Además, para ver el contenido de archivos, existen los comandos **cat**, **head**, **tail**, **more** y **less**, que permiten visualizar desde el contenido completo hasta las primeras o últimas líneas del archivo.
+
+También es posible gestionar permisos y propietarios de archivos mediante **chmod** (para cambiar permisos) y **chown** (para cambiar el propietario de un archivo o directorio). El comando **ls -l** muestra los permisos actuales de los archivos, lo cual es útil para verificar si se tienen los permisos correctos. Para verificar quién está usando el sistema, el comando **whoami** muestra el nombre del usuario actual. Los usuarios pueden ejecutar tareas administrativas utilizando el comando **sudo**, que permite ejecutar comandos con privilegios de superusuario, esencial para tareas de instalación de software, configuración de hardware o modificaciones del sistema que requieren permisos elevados.
+
+Además, la terminal de Linux puede combinarse con scripts para automatizar tareas repetitivas, lo que mejora la eficiencia en el trabajo. Estos comandos son esenciales para realizar operaciones básicas y tener un control más avanzado sobre el sistema, permitiendo gestionar archivos, configuraciones y el entorno del sistema de manera más eficiente. A medida que se adquiere experiencia, el manejo de estos comandos mejora la productividad y la comprensión del funcionamiento interno de Linux.
 
 ## 4. Conocimientos previos.
 Para realizar esta practica el estudiante necesita tener claro los siguientes temas:
