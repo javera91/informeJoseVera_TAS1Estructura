@@ -76,4 +76,4 @@ Efectivamente de los 5 pasos de la practica, todos se han cumplido y se pueden v
 ## 10. Bibliografía
     
 - Install WSL | Microsoft Learn. (n.d.). Retrieved April 4, 2025, from https://learn.microsoft.com/en-us/windows/wsl/install
-- ¿Qué es Linux y para qué sirve? - Definición. (n.d.). Retrieved April 6, 2025, from https://www.geeknetic.es/Linux/que-es-y-para-que-sirve
+- ¿Qué es Linux y para qué sirve? - Definición. (n.d.). Retrieved April 4, 2025, from https://www.geeknetic.es/Linux/que-es-y-para-que-sirve
